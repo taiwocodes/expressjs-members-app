@@ -1,0 +1,6 @@
+=>server side application
+=>renders template on server
+=>making req & handling res
+=>http status
+=>handling middleware
+=>has a static folder
